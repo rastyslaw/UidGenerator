@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.TestPerformance.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\work\TestPerformance\.idea\.idea.TestPerformance\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
